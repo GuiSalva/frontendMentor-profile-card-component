@@ -34,7 +34,7 @@ These are screenshots of the project in desktop and mobile states.
 
 ### Links
 - Solution URL: [Check my solution on Frontend mentor here !]()
-- Live Site URL: [Take a look at the site running here !]()
+- Live Site URL: [Take a look at the site running here !](https://guisalva.github.io/frontendMentor-profile-card-component/)
 
 # My process
 
