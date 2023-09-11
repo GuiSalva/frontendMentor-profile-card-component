@@ -33,7 +33,7 @@ These are screenshots of the project in desktop and mobile states.
 ![](./src/screenshots/desktop-preview.png)
 
 ### Links
-- Solution URL: [Check my solution on Frontend mentor here !]()
+- Solution URL: [Check my solution on Frontend mentor here !](https://www.frontendmentor.io/solutions/profile-card-component-using-html-and-css-flexbox-Opq9H6znCw)
 - Live Site URL: [Take a look at the site running here !](https://guisalva.github.io/frontendMentor-profile-card-component/)
 
 # My process
